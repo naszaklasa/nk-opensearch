@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
-                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
   <ShortName>nk.pl</ShortName>
   <Description>Wyszukiwarka w portalu NK</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9sKGBAMJOegKTAAAAJ1SURBVDjLhZM9aFNhFIaf7+Y2N2m1TdWaKloLQiF1aKFYBEFHpZs/s+LkIuLPIoLgLgguIgqCo6KLi3QQxMUfUBR/QgdTLVqbppbepLdJ7v3O+RxSq5ai73T4zsfD4bznNcevP3aTsyFWAAOGVfrjzblVLQN+qbzA2O4BPv+IcKwBANxv1opKlUWicAE/ToTJ2RqlSg2Hw6xCVOfnCX/MEGTbyfX0kg4yKz1R8MQ4rCRYsdhEELFYsSTWEi1W2Whq3Dl3mDNjw8yXp0kSi7UWEYuieE7AqdJYioiqITaxJM0mURgiVsDA4I48Jw6OUp2vUI+qRNUFkriJisO3TlmMlkjNvaSvu8qr0gBZL2Swd4aPM3lm4ywAxakybekMG1yV3Los7z9/wsttxXfimJ6e4cjwB07ve0ax3EMhXwGg1ggYunKK9e0B4WKDkZ157l46xre5kIMXbuKc4okq3blOxicGACjkKzx4u4uXU9tYn2myp39qxYPLxw8AcP7GQ2xbO+oMnoiSxDGdQR0wXHu6l4vjhwjrrW1v3jwCwJ7BPgp9eW4/esHryQpBph39NYGI/mWditKZaQIwW+sA4NtcCEBnRwZRbTmhy4A4jsllG4Cj1kgDijGt8+nqaE1y78kbXhSnOLpviC1dAXGzjhXFE3Es1RsUeluL+1juQcQy2veVYrmHwf48AM+LX7h6/wkAZ4/sJ2m0AGb7yVuusMln4ksZJwleqg1jQMWC8TDG4NRiPL911su157eRBF34Vh0GUONBKkBMKyQulf6dhJUaSKUxgBPFqsNXVd5Nfsc4g/P+SM4/ZJa/qSq+w2GD7rVj+F85fgKGM0o4hNEyFAAAAABJRU5ErkJggg==</Image>
-  <Url type="text/html" template="http://nasza-klasa.pl/szukaj/profile?q={searchTerms}&amp;f=opensearch" />
+  <Url type="text/html" template="http://nk.pl/szukaj/profile?q={searchTerms}&amp;f=opensearch" />
 </OpenSearchDescription>
